@@ -1,0 +1,42 @@
+.begin {
+  padding-bottom: 100px;
+  &__block {
+    display: flex;
+  }
+  &__left {
+    width: 20%;
+    padding: 150px 0 50px;
+  }
+  &__title {
+    color: #000;
+    font-family: "Cormorant Garamond",sans-serif;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100px;
+    position: relative;
+    width: 510px;
+    z-index: 2;
+    &::after {
+      content: "You";
+      color: #68513F;
+      text-align: right;
+      font-family: "Style Script",sans-serif;
+      font-size: 175px;
+      font-weight: 400;
+      transform: rotate(5.539deg);
+      position: absolute;
+      right: -100px;
+      bottom: -150px;
+    }
+  }
+  &__btn {
+    padding: 13px 21px 12px;
+    margin-top: 43px;
+  }
+  &__right {
+    width: 80%;
+    height: 750px;
+    background: url("../assets/begin.png") center/cover no-repeat;
+  }
+}

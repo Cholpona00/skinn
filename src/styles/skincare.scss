@@ -1,0 +1,70 @@
+.skincare {
+  padding: 240px 0 240px;
+  position: relative;
+  &__content {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+  &__center {
+    width: 649px;
+  }
+  &__title {
+    color: #000;
+    text-align: center;
+    font-family: "Cormorant Garamond",sans-serif;
+    font-size: 70px;
+    font-weight: 300;
+  }
+  &__suptitle {
+    color: #68513F;
+    text-align: center;
+    font-family: "Style Script",sans-serif;
+    font-size: 137px;
+    font-weight: 400;
+    line-height: 112px;
+    transform: rotate(-5.079deg);
+  }
+  &__text {
+    margin-top: 19px;
+    color: #000;
+    text-align: center;
+    font-family: "Inter",sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.6px;
+  }
+  &__btn {
+    margin-top: 43px;
+    border-radius: 73px;
+    padding: 13px 21px 12px;
+  }
+  &__img {
+    &-left{
+      position: absolute;
+      top: 117px;
+      left: 200px;
+    }
+    &-bottom{
+      position: absolute;
+      left: 144px;
+      bottom: 238px;
+    }
+    &-right {
+      position: absolute;
+      top: 21px;
+      right: 259px;
+    }
+    &-center {
+      position: absolute;
+      top: 266px;
+      right: 115px;
+    }
+    &-end {
+      position: absolute;
+      right: 152px;
+      bottom: 157px;
+    }
+  }
+}
+

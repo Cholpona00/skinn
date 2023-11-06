@@ -1,0 +1,63 @@
+.products {
+  padding: 90px 0;
+  &__title {
+    color: #68513F;
+    text-align: center;
+    font-family: "Style Script";
+    font-size: 137px;
+    font-weight: 400;
+    line-height: 112px;
+  }
+  &__suptitle {
+    color: #000;
+    text-align: center;
+    font-family: "Cormorant Garamond";
+    font-size: 65px;
+    font-weight: 300;
+    line-height: 98px;
+  }
+  &__cards {
+    display: flex;
+    column-gap: 14px;
+  }
+  &__card {
+    width: calc(25% - 10.5px);
+    height: 482px;
+    border-radius: 10px;
+    background: #E7DED8;
+    padding: 10px 10px 0;
+    &:hover {
+      height: 492px;
+      background: #68513d;
+      transition: 2s;
+    }
+    &-row {
+      display: flex;
+      justify-content: space-between;
+      margin: 19px 25px 6px;
+      &-name {
+        color: #000;
+        font-family: "Inter";
+        font-size: 13px;
+        font-weight: 400;
+      }
+      &-price {
+        color: #000;
+        font-family: "Inter";
+        font-size: 14px;
+        font-weight: 400;
+      }
+    }
+    &-title {
+      color: #000;
+      font-family: "Inter";
+      font-size: 19px;
+      font-weight: 400;
+      margin:0 0 41px 25px;
+    }
+    &-btn {
+      padding: 12px 120px 13px 115px;
+      border-radius: 5px
+    }
+  }
+}

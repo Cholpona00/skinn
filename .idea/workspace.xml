@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eae93179-4b7e-4ddb-bdb7-234c9c6be637" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2XAseFT673fTJX0j02oKVKCPj71" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\OneDrive\Рабочий стол\skinn\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\OneDrive\Рабочий стол\skinn\src\js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eae93179-4b7e-4ddb-bdb7-234c9c6be637" name="Default Changelist" comment="" />
+      <created>1698083311052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698083311052</updated>
+      <workItem from="1698083312467" duration="1018000" />
+      <workItem from="1698084364703" duration="170000" />
+      <workItem from="1698084570620" duration="693000" />
+      <workItem from="1698085305146" duration="187000" />
+      <workItem from="1698085538486" duration="38000" />
+      <workItem from="1698085614567" duration="4680000" />
+      <workItem from="1698232138171" duration="777000" />
+      <workItem from="1698237290020" duration="43000" />
+      <workItem from="1698250849781" duration="924000" />
+      <workItem from="1698251799069" duration="1598000" />
+      <workItem from="1698253743778" duration="766000" />
+      <workItem from="1698254552149" duration="567000" />
+      <workItem from="1698398834262" duration="4074000" />
+      <workItem from="1698410314554" duration="4889000" />
+      <workItem from="1698577963622" duration="2839000" />
+      <workItem from="1698583032861" duration="5783000" />
+      <workItem from="1698591278751" duration="93000" />
+      <workItem from="1698591436842" duration="6377000" />
+      <workItem from="1698830743433" duration="6079000" />
+      <workItem from="1698837516468" duration="108000" />
+      <workItem from="1698838034334" duration="87000" />
+      <workItem from="1698838139786" duration="766000" />
+      <workItem from="1698838934026" duration="484000" />
+      <workItem from="1698839481542" duration="1266000" />
+      <workItem from="1698843807608" duration="1532000" />
+      <workItem from="1698845411650" duration="3881000" />
+      <workItem from="1698942861319" duration="48000" />
+      <workItem from="1698942930169" duration="78000" />
+      <workItem from="1698943026105" duration="96000" />
+      <workItem from="1698943184876" duration="548000" />
+      <workItem from="1698943950928" duration="3637000" />
+      <workItem from="1699010781678" duration="821000" />
+      <workItem from="1699011653232" duration="180000" />
+      <workItem from="1699011856179" duration="259000" />
+      <workItem from="1699012488758" duration="40000" />
+      <workItem from="1699012569254" duration="512000" />
+      <workItem from="1699013162612" duration="284000" />
+      <workItem from="1699013477611" duration="3825000" />
+      <workItem from="1699017361586" duration="832000" />
+      <workItem from="1699033579524" duration="4017000" />
+      <workItem from="1699188193260" duration="11887000" />
+      <workItem from="1699267323409" duration="298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1698414292560">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1698414292560" />
+    <state x="408" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1698830823595">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="408" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.816@0.0.1536.816" timestamp="1698830823595" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1699009327620">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1699009327620" />
+  </component>
+</project>

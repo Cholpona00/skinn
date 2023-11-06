@@ -1,0 +1,29 @@
+.header {
+  padding: 36px 0 37px;
+  &__nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__title {
+    width: 86px;
+    height: 26px;
+  }
+  &__links {
+    display: flex;
+    column-gap: 40px;
+  }
+  &__link {
+    color: #222;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+
+    &.active {
+      text-decoration: underline;
+    }
+  }
+  &__btn {
+    padding: 13px 21px 12px;
+  }
+}

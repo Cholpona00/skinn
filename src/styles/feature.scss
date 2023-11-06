@@ -1,0 +1,43 @@
+.feature {
+  padding-bottom: 206px;
+  &__block {
+    display: flex;
+    column-gap: 100px;
+    align-items: center;
+  }
+  &__left {
+    width: calc(40% - 50px);
+    border-radius: 10px;
+    img{
+      width: 100%;
+    }
+  }
+  &__right {
+    width: calc(60% - 50px);
+    text-align: center;
+  }
+  &__title {
+    color: #68513F;
+    font-family: "Style Script";
+    font-size: 137px;
+    font-weight: 400;
+  }
+  &__suptitle {
+    color: #000;
+    font-family: "Cormorant Garamond";
+    font-size: 70px;
+    font-weight: 300;
+    margin: 0 90px 25px;
+  }
+  &__desc {
+    color: #000;
+    font-family: "Inter";
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30.6px;
+    margin: 0 80px 39px;
+  }
+  &__btn {
+    padding: 12px 21px 13px 21px;
+  }
+}
